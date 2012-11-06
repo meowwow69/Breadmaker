@@ -31,9 +31,6 @@ public class scanner {
 			e.printStackTrace();
 			System.out.println("Fuck.");
 		}
-		
-		ArrayList<ArrayList<integer>> AdjacencyList = new ArrayList<ArrayList<integer>>();
-		
 	}
 
 }
